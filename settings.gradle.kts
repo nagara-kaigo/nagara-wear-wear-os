@@ -20,3 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "nagara-wear-wear-os"
+include(":app")
